@@ -88,11 +88,11 @@ I enjoy solving backend challenges, designing robust systems, and working with r
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=apchnk&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bibovizik&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apchnk&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bibovizik&theme=dark&hide_border=true" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apchnk&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibovizik&theme=dark&hide_border=true&layout=compact" />
 
 </div>
 
@@ -102,7 +102,7 @@ I enjoy solving backend challenges, designing robust systems, and working with r
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=apchnk\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Bibovizik\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
 
 </div>
 
@@ -112,10 +112,10 @@ I enjoy solving backend challenges, designing robust systems, and working with r
 
 <div align="center">
 
-[![Andrii's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=apchnk\&theme=react-dark\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Andrii's github activity graph](https://hub-readme-activity-graph.vercel.app/graph?username=Bibovizik\&theme=react-dark\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
+git
 ---
 
 ## 💼 Experience & Skills
@@ -157,17 +157,15 @@ var andrii = new
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-151515?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:andriy2003po@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-151515?style=for-the-badge\&logo=telegram\&logoColor=26A5E4)](https://t.me/apchnk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://linkedin.com/in/apchnk)
+[![Gmail](https://img.shields.io/badge/Gmail-151515?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:andri.gudyma@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-151515?style=for-the-badge\&logo=telegram\&logoColor=26A5E4)](https://t.me/AndrewHudyma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/andrii-hudyma/)
 
 </div>
 
 <div align="center">
 
 ### ✨ *"Simplicity is the soul of efficiency."* ✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=apchnk\&style=flat-square\&color=brightgreen)
 
 **Thanks for visiting! 😊**
 
