@@ -1,21 +1,3 @@
-## Hi there 👋
-
-<!--
-**Bibovizik/Bibovizik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...sAbsolutely — here is your **C# / .NET backend developer README**, rewritten fully in the same style, structure, and markup as the example you provided.
-Everything is adapted for a backend-focused profile while keeping the same visuals, formatting, sections, badges, and style.
-
----
-
 # Hi there, I'm Andrii! 👋
 
 <div align="center">
@@ -180,8 +162,6 @@ var andrii = new
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://linkedin.com/in/apchnk)
 
 </div>
-
----
 
 <div align="center">
 
